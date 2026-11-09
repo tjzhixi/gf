@@ -1,0 +1,31 @@
+.buildpath
+.hgignore.swp
+.project
+.orig
+.swp
+.idea/
+.settings/
+.vscode/
+vendor/
+bin/
+**/.DS_Store
+.test/
+cmd/gf/main
+cmd/gf/gf
+temp/
+example/log
+go.work
+go.work.sum
+!cmd/gf/go.work
+.windsurfrules
+
+# Ignore for docs
+node_modules
+.docusaurus
+output
+.example/
+.golangci.bck.yml
+*.exe
+
+# Preserve the upstream test fixture despite the parent project's *.log rule.
+!os/gfile/testdata/readline/file.log
