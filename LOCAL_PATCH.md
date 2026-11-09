@@ -1,6 +1,6 @@
 # GoFrame 2.10.0 HTTP 生命周期补丁
 
-本仓库完整保留 `github.com/gogf/gf/v2 v2.10.0` 发布模块的源码和 MIT LICENSE，通过应用仓库根 `go.mod` 的 `replace github.com/gogf/gf/v2 => github.com/jingchen0529/gf v2.10.0-zhixi.1` 使用（模块声明路径仍保持上游原值）。上游模块校验值：
+本仓库完整保留 `github.com/gogf/gf/v2 v2.10.0` 发布模块的源码和 MIT LICENSE，通过应用仓库根 `go.mod` 的 `replace github.com/gogf/gf/v2 => github.com/tjzhixi/gf/v2 v2.10.0-zhixi.2` 使用（模块声明路径仍保持上游原值）。上游模块校验值：
 
 ```text
 github.com/gogf/gf/v2 v2.10.0 h1:rzDROlyqGMe/eM6dCalSR8dZOuMIdLhmxKSH1DGhbFs=
